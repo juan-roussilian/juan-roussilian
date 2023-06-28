@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juan-roussilian&theme=outrun)](https://github.com/juan-roussilian/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juan-roussilian&hide=jupyter&theme=outrun)](https://github.com/juan-roussilian/github-readme-stats)
 <!--
 **juan-roussilian/juan-roussilian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
