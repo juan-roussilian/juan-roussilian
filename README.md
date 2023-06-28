@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juan-roussilian&hide=jupyter%20notebook,html&theme=outrun)](https://github.com/juan-roussilian/github-readme-stats)
 <!--
