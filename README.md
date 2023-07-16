@@ -1,6 +1,6 @@
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juan-roussilian&hide=jupyter%20notebook,html&theme=neon)](https://github.com/juan-roussilian/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juan-roussilian&hide=jupyter%20notebook,html,gherkin&theme=neon)](https://github.com/juan-roussilian/github-readme-stats)
 <!--
 **juan-roussilian/juan-roussilian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
